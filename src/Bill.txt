@@ -1,0 +1,8 @@
+************* Bill Details************** 
+User  :ManishYadav
+Role:affiliate
+Sell Amount:990
+User Discount:10.0
+Grocery Discount:45
+********************************************* 
+Total Amount:846.0
